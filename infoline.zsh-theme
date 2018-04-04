@@ -46,7 +46,7 @@ infoline_sign=(
   diverged '⭿' # 1 char
   differ '⭾' # 1 char
   stashes '≡' # 1 char
-  start '▶' # 1 char
+  start '$' # 1 char
   file '🗎' # 2 char
   dir '📁' # 2 char
   todo '🔨' # 2 char
